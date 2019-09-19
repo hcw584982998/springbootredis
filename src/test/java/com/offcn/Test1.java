@@ -17,4 +17,10 @@ public class Test1 {
     public void test1(){
         redisTemplate.boundValueOps("q100").set("11111");
     }
+
+    @Test
+    public void test2(){
+        //测试22222222222222
+    }
+
 }
